@@ -1,0 +1,4 @@
+78000.35560977571
+['room_cnt', 'small_room_cnt', 'property_area', 'balcony_area', 'atlag_nmAr', 'postcode', 'orientation', 'heat__central', 'heat__central_meter', 'heat__convection_gas', 'heat__district_heat', 'heat__electric', 'heat__fan_coil', 'heat__gas_furnace', 'heat__gas_furnace_circulation', 'heat__gas_solar', 'heat__other', 'heat__tile_stove', 'property_condition_type', 'panel_flag', 'elevator_type', 'garden_access', 'building_floor_count']
+GradientBoostingRegressor(max_depth=4, random_state=42)
+1
